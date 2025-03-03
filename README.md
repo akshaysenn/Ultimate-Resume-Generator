@@ -1,82 +1,116 @@
+# 🚀 ATS-Optimized Resume Generator
 
-# ATS-Optimized Resume Generator
+## 🎯 Advanced AI-Powered CV/Resume Optimization Engine
+This revolutionary application leverages cutting-edge **Large Language Model (LLM)** technology via **Google's Gemini 2.0** to transform standard resumes into **ATS-optimized, job-specific** application documents.
 
-## Advanced AI-Powered CV/Resume Optimization Engine
+Utilizing **NLP algorithms**, the system analyzes job descriptions and restructures resume content for **maximum keyword alignment** and **relevance scoring**, significantly improving your chances of landing interviews! 🎯📄
 
-This revolutionary application leverages cutting-edge Large Language Model (LLM) technology via Google's Gemini 2.0 to programmatically transform standard resumes into ATS-optimized, job-specific application documents. The system implements sophisticated natural language processing algorithms to analyze job descriptions and restructure resume content for maximum keyword alignment and relevance scoring.
+---
 
-## Technical Architecture
+## 🛠️ How To Use This Repl
 
-### Core Components
+### 1️⃣ **Set up Your Repl** 🏗️
+Clone the repository:bash git clone https://github.com/akshaysenn/Ultimate-Resume-Generator
 
-- **Flask Web Framework**: Implements a RESTful API architecture with session management for multi-user functionality
-- **Google Gemini 2.0 API Integration**: Utilizes state-of-the-art generative AI for contextual resume content transformation
-- **PyPDF2 Parser**: Advanced PDF extraction engine for document processing
-- **LaTeX Document Generation**: Professional typesetting system for pixel-perfect document formatting
-- **FPDF Library**: Secondary PDF generation pipeline for fail-safe document delivery
+### 2️⃣ **Create Required Folders** 📂
+- Inside , create two folders:
+  - `resume` → Place your resume here (in **PDF format**)
+  - `newresume` → Optimized resumes will be stored here (in **PDF & LaTeX** formats)
 
-### Advanced Features
+### 3️⃣ **Upload Your Resume** 📜
+- Download your resume in **PDF format**
+- Move it into the `resume` folder
 
-- **Semantic Job Description Analysis**: Extracts key skills, requirements, and qualifications using NLP techniques
-- **Resume Structure Analysis**: Performs complex pattern recognition to identify resume sections and formatting
-- **LaTeX Template Injection**: Dynamically generates customized LaTeX documents with optimized content
-- **Parallel Processing Workflows**: Simultaneous PDF preview generation while LaTeX compilation occurs
-- **Session-Based File Management**: Secure temporary storage with automatic cleanup protocols
+### 4️⃣ **Add Job Description & Additional Details** 📝
+- Create two text files in the Repl root directory:
+  - `job_description.txt` → Copy-paste the **job description** you’re applying for
+  - `additional_details.txt` → Include **extra details** like projects, skills, and achievements
 
-## System Requirements
+### 5️⃣ **Get a Google Gemini API Key** 🔑
+- Visit [Google MakerSuite](https://makersuite.google.com/app/apikey) to generate an **API key**
+- In Replit, create a new **Secret** named `GEMINI_API_KEY`
+- Paste the API key inside the secret
 
-- Python 3.11+
-- Flask 3.1.0+
-- Google Generative AI SDK 0.8.4+
-- LaTeX compiler (pdflatex)
-- PyPDF2 3.0.0+
-- FPDF 1.7.2+
+### 6️⃣ **Run the Script** ▶️
+- Click **"Run"** in Replit
+- The script will process your resume and generate an **ATS-optimized** version 🏆
 
-## Deployment Architecture
+### 7️⃣ **Download Your Optimized Resume** ⬇️
+- Your **new resume** will be saved in `newresume` in **PDF & LaTeX formats**
+- Download & submit it to your dream job! 🎯
 
-The application is configured for cloud deployment with horizontal scaling capabilities. The stateless design allows for containerized deployment with minimal resource requirements while maintaining high availability.
+---
 
-## Setup Instructions
+## 📄 Example Content for `job_description.txt` & `additional_details.txt`
 
-1. Clone the repository
-2. Install dependencies using UV package manager:
-   ```
-   uv install
-   ```
-3. Configure Google Gemini API key in environment variables
-4. Start the server:
-   ```
-   python main.py
-   ```
+### ✅ `job_description.txt`
+```plaintext
+Minimum qualifications:
+- Bachelor's degree in Electrical Engineering, Computer Science, or related field.
+- 3+ years of experience with industry-standard emulation tools.
+- Proficiency in Perl, Python, or Tcl; experience with Verilog/SystemVerilog.
 
-## User Workflow
+Preferred qualifications:
+- Master's/PhD in relevant field.
+- Experience with chip design flow and verification methodologies.
 
-1. Upload resume in PDF format via web interface
-2. Input job description and additional personalization details
-3. AI algorithm performs comprehensive document transformation
-4. System generates optimized LaTeX and PDF outputs
-5. User downloads job-specific, ATS-optimized documents
+About the job:
+Join Google's custom silicon team and contribute to cutting-edge hardware innovation.
+```
 
-## Implementation Details
+### ✅ `additional_details.txt`
+```plaintext
+I am a passionate software engineer skilled in Java, Python, and C++.
+Experienced in Agile development, system architecture, and cloud computing.
+Excited to contribute to innovative projects in AI and hardware-software integration.
+```
 
-The system employs a sophisticated multi-stage pipeline:
-1. **Document Ingestion**: PDF parsing with text extraction and structure analysis
-2. **Prompt Engineering**: Construction of precise AI prompts for optimal content generation
-3. **Content Transformation**: AI-powered rewriting with job-specific keyword integration
-4. **Document Generation**: Parallel processing of both quick-view PDF and LaTeX compilation
+---
 
-## Future Enhancements
+## 🔧 System Requirements
+✅ **Python** 3.11+  
+✅ **Flask** 3.1.0+  
+✅ **Google Generative AI SDK** 0.8.4+  
+✅ **LaTeX compiler** (pdflatex)  
+✅ **PyPDF2** 3.0.0+  
+✅ **FPDF** 1.7.2+  
 
-- Integration with job board APIs for direct application submission
-- Expanded template library with industry-specific formats
-- Resume analytics dashboard with success metrics
-- Automated A/B testing of resume variations
+---
 
-## License
+## ⚙️ Deployment Architecture
+🔹 **Cloud-ready** with horizontal scaling 🌍  
+🔹 **Stateless** design for containerized deployment 📦  
+🔹 **High availability** with minimal resource requirements 🚀  
 
-MIT
+---
 
-## Acknowledgments
+## 📌 Implementation Details
+### 🔍 **Multi-Stage Optimization Pipeline**
+1️⃣ **Document Ingestion** → PDF parsing & text extraction 📄  
+2️⃣ **Prompt Engineering** → AI-powered content transformation 🎭  
+3️⃣ **Keyword Optimization** → Job-specific ATS enhancement 💡  
+4️⃣ **Resume Generation** → PDF & LaTeX conversion 📑  
 
-- Jake Gutierrez for the LaTeX resume template
-- Google Gemini team for the powerful AI capabilities
+---
+
+## 🚀 Future Enhancements
+🔹 **Direct job board API integration** for one-click applications  
+🔹 **Expanded resume templates** for various industries  
+🔹 **Resume analytics dashboard** with interview success metrics 📊  
+🔹 **Automated A/B testing** of resume variations 🔬  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** 📄
+
+---
+
+## 🙌 Acknowledgments
+💙 **Jake Gutierrez** for the LaTeX resume template  
+🤖 **Google Gemini Team** for the powerful AI capabilities  
+
+---
+
+🔥 **Start optimizing your resume today & land your dream job!** 🔥
+
