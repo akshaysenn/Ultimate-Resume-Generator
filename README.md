@@ -1,43 +1,61 @@
 # 🚀 ATS-Optimized Resume Generator
 
 ## 🎯 Advanced AI-Powered CV/Resume Optimization Engine
-This revolutionary application leverages cutting-edge **Large Language Model (LLM)** technology via **Google's Gemini 2.0** to transform standard resumes into **ATS-optimized, job-specific** application documents.
+This revolutionary application leverages cutting-edge **Large Language Model (LLM)** technology via **Google's Gemini 2.0** to transform standard resumes into **ATS-optimized, job-specific** application documents. 
 
 Utilizing **NLP algorithms**, the system analyzes job descriptions and restructures resume content for **maximum keyword alignment** and **relevance scoring**, significantly improving your chances of landing interviews! 🎯📄
 
 ---
 
-## 🛠️ How To Use This Repl
+## 🛠️ How To Use This Tool Locally
 
-### 1️⃣ **Set up Your Repl** 🏗️
-Clone the repository:bash git clone https://github.com/akshaysenn/Ultimate-Resume-Generator
+### 1️⃣ **Set Up Your Environment** 🏗️
+- Ensure you have **Python 3.11+** installed on your system
+- Clone this repository:
+  ```sh
+  git clone https://github.com/akshaysenn/Ultimate-Resume-Generator
+  cd ats-optimized-resume
+  ```
+- Install required dependencies:
+  ```sh
+  pip install -r requirements.txt
+  ```
 
 ### 2️⃣ **Create Required Folders** 📂
-- Inside , create two folders:
+- Inside the project directory, create two folders:
   - `resume` → Place your resume here (in **PDF format**)
   - `newresume` → Optimized resumes will be stored here (in **PDF & LaTeX** formats)
 
 ### 3️⃣ **Upload Your Resume** 📜
-- Download your resume in **PDF format**
-- Move it into the `resume` folder
+- Move your resume into the `resume` folder
 
 ### 4️⃣ **Add Job Description & Additional Details** 📝
-- Create two text files in the Repl root directory:
+- Create two text files in the root directory:
   - `job_description.txt` → Copy-paste the **job description** you’re applying for
   - `additional_details.txt` → Include **extra details** like projects, skills, and achievements
 
 ### 5️⃣ **Get a Google Gemini API Key** 🔑
 - Visit [Google MakerSuite](https://makersuite.google.com/app/apikey) to generate an **API key**
-- In Replit, create a new **Secret** named `GEMINI_API_KEY`
-- Paste the API key inside the secret
+- Create an environment variable named `GEMINI_API_KEY`
+- On Windows (Command Prompt):
+  ```sh
+  set GEMINI_API_KEY=your_api_key
+  ```
+- On macOS/Linux:
+  ```sh
+  export GEMINI_API_KEY=your_api_key
+  ```
 
 ### 6️⃣ **Run the Script** ▶️
-- Click **"Run"** in Replit
+- Execute the script:
+  ```sh
+  python main.py
+  ```
 - The script will process your resume and generate an **ATS-optimized** version 🏆
 
 ### 7️⃣ **Download Your Optimized Resume** ⬇️
 - Your **new resume** will be saved in `newresume` in **PDF & LaTeX formats**
-- Download & submit it to your dream job! 🎯
+- Use it to apply for jobs! 🎯
 
 ---
 
@@ -78,9 +96,9 @@ Excited to contribute to innovative projects in AI and hardware-software integra
 ---
 
 ## ⚙️ Deployment Architecture
-🔹 **Cloud-ready** with horizontal scaling 🌍  
-🔹 **Stateless** design for containerized deployment 📦  
-🔹 **High availability** with minimal resource requirements 🚀  
+🔹 **Runs locally** with minimal resource requirements 🖥️  
+🔹 **No external cloud dependencies** except for AI processing via Google Gemini 🤖  
+🔹 **Simple and efficient design** for offline processing 🚀  
 
 ---
 
