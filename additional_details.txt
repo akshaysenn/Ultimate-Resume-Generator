@@ -1,0 +1,125 @@
+Akshay Sain  
+Mathematics Enthusiast | Tech Innovator | Entrepreneur  
+Dehradun, Uttarakhand, India  
+
+**About Me**  
+I am a highly motivated individual with a strong background in technology, leadership, and entrepreneurship. My journey has been defined by a commitment to innovation and making a positive impact.
+
+I was the Runner-up at the Youth Entrepreneurship Championship at IIT Kanpur, which reinforced my passion for technology-driven solutions. As a volunteer at Cognizance, IIT Roorkee, I actively contribute to various events and workshops, fostering a culture of learning and collaboration.
+
+I co-founded LearnTechX, a company dedicated to developing cutting-edge technology for women's safety. Our flagship safety device is designed to deliver a shock to potential attackers while simultaneously sending live location-based emergency alerts to designated family members.
+
+As a Brand Executive at TEACHNOOK, I led a team of over 170 individuals, ensuring their motivation, support, and success. Additionally, I worked as a freelance User Acceptance Tester at Embibe, focusing on QA testing and improving software quality.
+
+I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science from Gurukula Kangri Vishwavidyalaya and am actively involved in GDSC and Microsoft Learn Student Ambassador (LSA) programs at my college. My passion for continuous learning is reflected in my certifications in Machine Learning, Cloud Computing, and Web Development.
+
+---
+
+### **Education**  
+**Gurukula Kangri Vishwavidyalaya**  
+- Bachelor of Technology (B.Tech), Computer Science (August 2024 - August 2028)  
+
+**Anand Swaroop Arya Saraswati Vidya Mandir**  
+- Intermediate Education (September 2012 - June 2024)  
+
+---
+
+### **Experience**  
+**All India Council for Technical Education (AICTE)**  
+*Intern (December 2024 - January 2025, 2 months)*  
+- Participated in the Microsoft & SAP-AICTE Internship Program, developing foundational IT skills for a productive career in the technology sector.
+- Earned industry-recognized credentials and received mentorship from IT experts.
+
+**Cognizance, IIT Roorkee**  
+*Volunteer (September 2024 - November 2024, 3 months)*  
+- Assisted in organizing events, workshops, and technical sessions to contribute to the tech community.
+
+**Embibe**  
+*Freelance User Acceptance Tester (September 2023 - May 2024, 9 months)*  
+- Conducted QA testing to ensure software compliance with release standards.
+- Developed and executed test cases, documented bugs, and provided feedback to the development team.
+- Gained valuable insights into software development and testing methodologies.
+
+**LearnTechX**  
+*Co-Founder (January 2022 - October 2023, 1 year 10 months)*  
+- Led the development of an innovative women's safety device.
+- Engineered a compact device capable of delivering electric shocks to potential attackers and sending real-time emergency alerts to designated contacts.
+- Focused on technology-driven social impact solutions.
+
+---
+
+### **Volunteering & Leadership**  
+**Google Developer Student Clubs (GDSC), Gurukula Kangri Vishwavidyalaya**  
+*Member (September 2024 - Present)*  
+- Organized tech events, workshops, and training programs for students.
+- Managed collaborations with industry experts and other student communities.
+
+**Microsoft Learn Student Ambassador (LSA), Gurukula Kangri Vishwavidyalaya**  
+*Member (September 2024 - Present)*  
+- Conducted workshops, events, and hackathons to spread awareness about Microsoft technologies.
+- Collaborated with students to develop projects and enhance technical skills.
+
+---
+
+### **Projects**  
+**AI-Powered Habit Tracker**  
+A SaaS platform helping users build and track good habits using AI technology.  
+
+**Human Pose Estimation**  
+AI-powered solution for human pose estimation and motion detection.  
+
+**Marketplace Platform**  
+A marketplace website connecting companies with agencies.  
+
+**Instagram Carousel Maker**  
+Create engaging Instagram carousel posts easily.  
+
+**AI Code Analyzer**  
+Advanced code analysis tool powered by AI.  
+
+**Resume Generator**  
+Create professional resumes with ease.  
+
+---
+
+### **Certifications**  
+- Machine Learning Pipelines with Azure ML Studio  
+- Responsive Web Design (freeCodeCamp)  
+- Introduction to Containers  
+- Geo-data Sharing & Cybersecurity  
+- AWS Technical Essentials  
+
+---
+
+### **Skills**  
+#### **Technical Skills**  
+- Machine Learning & AI (Azure ML, AI models)  
+- Cloud Computing (Microsoft Azure, AWS)  
+- Software Development & Testing (QA, UI/UX Testing, UAT)  
+- Web Development (HTML, CSS, JavaScript, WordPress)  
+- Cybersecurity & Geo-data Sharing  
+
+#### **Industry Knowledge**  
+- IT Infrastructure Management  
+- Project Management & Entrepreneurship  
+- Start-up Leadership & Business Ownership  
+
+#### **Interpersonal Skills**  
+- Team Leadership & Organizational Leadership  
+- Brand Strategy & Sales Presentations  
+- Time Management & Team Building  
+
+---
+
+### **Languages**  
+- Sanskrit (Full Professional Proficiency)  
+- Hindi (Native/Bilingual)  
+- English (Full Professional Proficiency)  
+- German (Limited Working Proficiency)  
+
+---
+
+### **Contact**  
+💎 Email: theakshaysen@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/akshaysenn](www.linkedin.com/in/akshaysenn)
+

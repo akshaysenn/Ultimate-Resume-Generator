@@ -1,0 +1,25 @@
+Minimum qualifications:
+Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field, or equivalent practical experience.
+3 years of experience with industry-standard emulation tools and techniques.
+Experience with scripting languages such as Perl, Python, or Tcl, and high level design language such as Verilog or SystemVerilog.
+Experience with an industry available emulator such as Cadence Palladium, Mentor Veloce, Synopsys EVE or FPGA rapid prototyping platforms.
+
+Preferred qualifications:
+Master's degree or PhD in Electrical Engineering, Computer Engineering or Computer Science, with an emphasis on computer architecture.
+Knowledge of and experience with chip design flow including simulation and synthesis.
+Knowledge of and experience with design verification languages and methodologies, such as SystemVerilog and UVM/OVM.
+About the job
+Be part of a diverse team that pushes boundaries, developing custom silicon solutions that power the future of Google's direct-to-consumer products. You'll contribute to the innovation behind products loved by millions worldwide. Your expertise will shape the next generation of hardware experiences, delivering unparalleled performance, efficiency, and integration.
+
+Google's mission is to organize the world's information and make it universally accessible and useful. Our team combines the best of Google AI, Software, and Hardware to create radically helpful experiences. We research, design, and develop new technologies and hardware to make computing faster, seamless, and more powerful. We aim to make people's lives better through technology.
+
+The US base salary range for this full-time position is $127,000-$187,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+Responsibilities
+Plan and execute RTL partitioning, synthesis, and validation to build efficient, accurate emulation models.
+Run extensive test suites and software workloads on the emulation platform for thorough pre-silicon verification.
+Implement robust debugging methodologies and tools to quickly identify and resolve complex design issues.
+Analyze and optimize emulation performance and resource utilization to maximize efficiency.
+Enforce best practices, develop tools, and manage resources effectively through close collaboration with design and verification teams.
