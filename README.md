@@ -14,7 +14,7 @@ Utilizing **NLP algorithms**, the system analyzes job descriptions and restructu
 - Clone this repository:
   ```sh
   git clone https://github.com/akshaysenn/Ultimate-Resume-Generator
-  cd ats-optimized-resume
+ 
   ```
 - Install required dependencies:
   ```sh
